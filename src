@@ -1,0 +1,17 @@
+my-project/
+├── src/                # Source code directory
+│   ├── main.py         # Main entry point for your program
+│   ├── module1.py      # Example module
+│   ├── utils/          # Utility functions
+│       └── helpers.py
+├── tests/              # Tests directory
+│   ├── test_main.py    # Tests for the main program
+│   ├── test_module1.py # Tests for module1
+├── docs/               # Documentation
+│   ├── README.md       # Overview and setup instructions
+│   ├── changelog.md    # Changelog for version updates
+├── .gitignore          # Files and directories to ignore in Git
+├── requirements.txt    # Python dependencies
+├── setup.py            # Setup script for packaging (if needed)
+├── LICENSE             # License file
+└── README.md           # Project overview
